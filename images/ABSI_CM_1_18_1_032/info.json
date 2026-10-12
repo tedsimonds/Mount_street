@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 124,
+    "height" : 93
+  }, {
+    "width" : 247,
+    "height" : 185
+  }, {
+    "width" : 493,
+    "height" : 370
+  }, {
+    "width" : 986,
+    "height" : 739
+  }, {
+    "width" : 1971,
+    "height" : 1478
+  }, {
+    "width" : 3941,
+    "height" : 2956
+  } ],
+  "profile" : "level0",
+  "width" : 3941,
+  "id" : "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2956
+}

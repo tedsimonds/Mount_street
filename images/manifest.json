@@ -7,5 +7,87 @@
             "All images loaded in tedsimonds/Mount_street project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ABSI_CM_1_18_1_032"
+                ]
+            },
+            "height": 2956,
+            "width": 3941,
+            "items": [
+                {
+                    "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 124,
+                                                "height": 93
+                                            },
+                                            {
+                                                "width": 247,
+                                                "height": 185
+                                            },
+                                            {
+                                                "width": 493,
+                                                "height": 370
+                                            },
+                                            {
+                                                "width": 986,
+                                                "height": 739
+                                            },
+                                            {
+                                                "width": 1971,
+                                                "height": 1478
+                                            },
+                                            {
+                                                "width": 3941,
+                                                "height": 2956
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3941,
+                                        "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2956
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
