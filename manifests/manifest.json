@@ -1,0 +1,118 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://tedsimonds.github.io/Mount_street/manifests/manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/s0hyoew4jmm-mv5dy5ct/canvas/u7scvbd4ep-mv5dydtz",
+    "type" : "Canvas",
+    "height" : 2919,
+    "width" : 3941,
+    "label" : {
+      "en" : [ "ABSI_CM_1_18_1_032" ]
+    },
+    "requiredStatement" : {
+      "label" : {
+        "en" : [ "" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    },
+    "thumbnail" : [ {
+      "id" : "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/full/493,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 370,
+      "width" : 493
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/s0hyoew4jmm-mv5dy5ct/canvas/u7scvbd4ep-mv5dydtz/annotation-page/tihx2sr8ukq-mv5dydtz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/s0hyoew4jmm-mv5dy5ct/annotation/0dv7n5e3u3hv-mv5dydty",
+        "type" : "Annotation",
+        "label" : {
+          "en" : [ "ABSI_CM_1_18_1_TEST" ]
+        },
+        "summary" : {
+          "en" : [ "Opening 32 from the manuscript library catalogue ABSI/CM/1/18/1 showing catalogue entries for works with authors beginning with C." ]
+        },
+        "metadata" : [ {
+          "label" : {
+            "en" : [ "Opening" ]
+          },
+          "value" : {
+            "en" : [ "32" ]
+          }
+        }, {
+          "label" : {
+            "en" : [ "Alphabetical range" ]
+          },
+          "value" : {
+            "en" : [ "Ch-Cl" ]
+          }
+        }, {
+          "label" : {
+            "en" : [ "Number of items" ]
+          },
+          "value" : {
+            "en" : [ "12" ]
+          }
+        }, {
+          "label" : {
+            "en" : [ "" ]
+          },
+          "value" : {
+            "en" : [ "" ]
+          }
+        } ],
+        "motivation" : "painting",
+        "rights" : "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "target" : "https://example.org/s0hyoew4jmm-mv5dy5ct/canvas/u7scvbd4ep-mv5dydtz",
+        "body" : {
+          "id" : "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2956,
+          "width" : 3941,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 124,
+              "height" : 93
+            }, {
+              "width" : 247,
+              "height" : 185
+            }, {
+              "width" : 493,
+              "height" : 370
+            }, {
+              "width" : 986,
+              "height" : 739
+            }, {
+              "width" : 1971,
+              "height" : 1478
+            }, {
+              "width" : 3941,
+              "height" : 2956
+            } ],
+            "profile" : "level0",
+            "width" : 3941,
+            "id" : "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2956
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
