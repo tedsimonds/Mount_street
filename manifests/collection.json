@@ -11,5 +11,11 @@
       "en" : [ "Blank Manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://tedsimonds.github.io/Mount_street/manifests/manifest.json",
+    "label" : {
+      "en" : [ "All images loaded in tedsimonds/Mount_street project" ]
+    },
+    "type" : "Manifest"
   } ]
 }
