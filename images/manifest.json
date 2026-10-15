@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ABSI_CM_1_18_1_032"
+                ]
+            },
+            "height": 2956,
+            "width": 3941,
+            "items": [
+                {
+                    "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 124,
+                                                "height": 93
+                                            },
+                                            {
+                                                "width": 247,
+                                                "height": 185
+                                            },
+                                            {
+                                                "width": 493,
+                                                "height": 370
+                                            },
+                                            {
+                                                "width": 986,
+                                                "height": 739
+                                            },
+                                            {
+                                                "width": 1971,
+                                                "height": 1478
+                                            },
+                                            {
+                                                "width": 3941,
+                                                "height": 2956
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3941,
+                                        "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 2956
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_B1/canvas/",
             "type": "Canvas",
             "label": {
@@ -89,27 +170,27 @@
                 }
             ]
         },
-         {
-            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/canvas/",
+        {
+            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_001/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "ABSI_CM_1_18_1_032"
+                    "ABSI_CM_1_18_1_001"
                 ]
             },
-            "height": 2956,
-            "width": 3941,
+            "height": 3024,
+            "width": 4032,
             "items": [
                 {
-                    "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/annotation/AnnoPage",
+                    "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_001/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/annotation/",
+                            "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_001/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/full/max/0/default.jpg",
+                                "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_001/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -130,41 +211,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 124,
-                                                "height": 93
+                                                "width": 126,
+                                                "height": 95
                                             },
                                             {
-                                                "width": 247,
-                                                "height": 185
+                                                "width": 252,
+                                                "height": 189
                                             },
                                             {
-                                                "width": 493,
-                                                "height": 370
+                                                "width": 504,
+                                                "height": 378
                                             },
                                             {
-                                                "width": 986,
-                                                "height": 739
+                                                "width": 1008,
+                                                "height": 756
                                             },
                                             {
-                                                "width": 1971,
-                                                "height": 1478
+                                                "width": 2016,
+                                                "height": 1512
                                             },
                                             {
-                                                "width": 3941,
-                                                "height": 2956
+                                                "width": 4032,
+                                                "height": 3024
                                             }
                                         ],
                                         "profile": "level0",
-                                        "width": 3941,
-                                        "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032",
+                                        "width": 4032,
+                                        "id": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_001",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 2956
+                                        "height": 3024
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_032/canvas/"
+                            "target": "https://tedsimonds.github.io/Mount_street/images/ABSI_CM_1_18_1_001/canvas/"
                         }
                     ]
                 }
